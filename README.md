@@ -15,7 +15,6 @@ run for real, and explained in under 60 seconds.
 
 </div>
 
-
 ---
 
 ## Why this exists
@@ -29,6 +28,7 @@ Each experiment is a short video in the **Dayo Tries** series. Every number show
 
 | # | Experiment | What it shows | Key result |
 |---|-----------|---------------|------------|
+| 09 | [**Teaching an AI to cross a Lagos road**](09-lagos-road-ai) | Reinforcement learning (Q-learning), reward design, reward hacking | Hit rate **86% → 3%**… then it learned to **never cross at all** |
 | 02 | [**Teaching a neural network to read handwriting**](02-handwriting-ai) | Neural networks, train/test split, dataset bias | 96.7% accuracy… but it read a Nigerian-style "1" as a **2** |
 | 08 | [**Training a language model on Nigerian Pidgin**](08-pidgin-ai) | N-gram language models, overfitting vs. underfitting | Small data either talks nonsense or **copies 48%** of its training set |
 | 06 | [**Simulating phantom traffic jams**](06-phantom-traffic-jam) | Agent-based simulation (Nagel–Schreckenberg) | Removing random braking cut stopped cars from **30.6% → 1.2%** |
@@ -53,7 +53,7 @@ Timings will differ on your machine, and that's part of the fun.
 
 ## 🛠️ Skills on display
 
-- **Machine learning:** training and evaluating neural networks, language models, overfitting and dataset bias
+- **Machine learning:** neural networks, language models, reinforcement learning, overfitting and dataset bias
 - **Simulation and modelling:** agent-based systems, Monte Carlo experiments
 - **Algorithms and complexity:** greedy vs. dynamic programming, sorting, brute-force search
 - **Performance engineering:** Python vs. NumPy vs. C, compiler optimisation
