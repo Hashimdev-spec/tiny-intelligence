@@ -1,0 +1,120 @@
+scam	Congratulations! You have won 500,000 naira in our anniversary promo. Send your account details to claim now
+scam	Your BVN has been suspended. Click this link to update your details within 24 hours or your account will be blocked
+scam	URGENT: Your bank account has been restricted. Call this number now to reactivate
+scam	Dear customer, your ATM card will be deactivated today. Reply with your card number and PIN to keep it active
+scam	You have been selected for a federal government grant of 2 million naira. Pay 5,000 processing fee to receive it
+scam	Congratulations you are our lucky winner! Claim your prize by sending 3,000 naira registration fee
+scam	Your SIM will be blocked in 24 hours due to NIN verification failure. Click the link to verify now
+scam	Hello, I mistakenly sent 20,000 naira recharge card to your line. Please kindly send it back to me
+scam	Final notice: your account will be closed. Verify your identity now at this link
+scam	We are hiring! Earn 50,000 naira daily working from home. Pay 2,000 to register and start immediately
+scam	Your package is held at customs. Pay clearance fee of 8,500 naira to this account to release it
+scam	Dear winner, you have won a brand new car in our promo. Call now to claim before it expires
+scam	Investment opportunity: double your money in 7 days guaranteed. Send any amount to start
+scam	Your account has been credited with 150,000 naira. Click the link to confirm the transaction and claim
+scam	Alert: suspicious login on your account. Send the OTP we just sent you to secure your account
+scam	Congratulations! Your number has won an iPhone in our raffle draw. Send 4,000 delivery fee to claim
+scam	I am a prince with 10 million dollars to transfer. I need your bank account to help me. You will get 30 percent
+scam	Your loan of 300,000 naira has been approved. Pay 7,000 insurance fee to receive the money today
+scam	Urgent! Your wallet has been frozen. Click here and enter your PIN to unfreeze it now
+scam	Customer care: your line has been selected for free data bonus. Dial this code and send the code you receive to claim
+scam	You have an unclaimed reward of 75,000 naira. Click the link to claim before midnight
+scam	Dear user your account will be suspended due to incomplete registration. Update now with your BVN
+scam	Win big! Bet 1,000 and win 1 million guaranteed. Send money to this account to join
+scam	Your scholarship application has been approved. Pay 10,000 naira acceptance fee to this account
+scam	This is your bank. We noticed an error on your account. Reply with your card details to fix it
+scam	Congratulations, you have been shortlisted for a job abroad with free visa. Pay processing fee to continue
+scam	You have won free airtime. Click this link and enter your details to claim instantly
+scam	Your POS transaction failed but you were debited. Call this number and give your PIN for refund
+scam	Mega promo! Your number won 1 million naira. Contact the claims agent immediately with your account number
+scam	Crypto giveaway: send 0.1 bitcoin and receive 1 bitcoin back immediately. Limited time
+scam	Hello dear, I am a soldier on peacekeeping mission. I need your help to move my funds. Reply urgently
+scam	Your electricity meter has been flagged. Pay 6,000 reconnection fee now or light will be disconnected today
+scam	Act now! Your account is at risk. Verify your identity by clicking the link below
+scam	Dear customer, kindly update your details to avoid account suspension. Click link now
+scam	You have been chosen to receive a government palliative of 50,000 naira. Send your BVN to claim
+scam	Your parcel delivery failed. Pay redelivery fee using this link to receive your package
+scam	Congratulations! You won our customer loyalty reward. Send your account number and OTP to claim
+scam	Earn 200,000 naira weekly with no experience. Just pay 3,500 registration fee to start today
+scam	Your account has been blocked due to suspicious activity. Call our agent now with your card PIN
+scam	Free laptop for students! Register now with 2,500 naira and get your laptop delivered
+scam	Hi, this is your bank manager. Send me your PIN so I can help you upgrade your account urgently
+scam	Your number has been selected for 10GB free data. Click the link and enter your PIN to activate
+scam	Claim your inheritance of 5 million dollars. Pay the lawyer fee to process the transfer
+scam	Your WhatsApp will be deactivated. Send the 6 digit code we sent you to keep your account
+scam	Urgent notice: pay your tax penalty of 12,000 naira today to avoid arrest. Send to this account
+scam	You have been awarded a cash prize. To claim, pay the transfer charges to the account below
+scam	Dear customer your card has expired. Reply with your new card number and CVV to renew
+scam	Get rich quick! Join our investment club and earn 40 percent profit every week guaranteed
+scam	Your account has been credited in error. Kindly refund the money to this account urgently
+scam	Your NIN has been linked to a crime. Call this number immediately to clear your name
+scam	Congratulations, you qualify for a free 500,000 naira business grant. Click to apply and pay registration
+scam	Winner alert! You won a trip to Dubai. Send your passport details and 15,000 naira to confirm
+scam	Your betting account has 250,000 naira bonus waiting. Deposit 5,000 to unlock withdrawal
+scam	Important: your pension has been approved. Send your BVN and account number to receive payment
+scam	Limited offer: buy dollars at 500 naira. Send money now before rate changes
+scam	Your phone number won the network anniversary promo. Call the claims officer now to claim your prize
+scam	Dear user, your mailbox is full. Click the link and log in to increase your storage
+scam	Hello, I am stranded at the airport and need 30,000 naira urgently for my ticket. I will pay back. Send to this account
+scam	Your recharge bonus of 20,000 naira is ready. Send the code you receive to collect it
+scam	Free giveaway! First 100 people to send 1,000 naira will receive 10,000 naira back
+normal	Mum: Have you eaten? Don't forget to call your grandmother today
+normal	Meeting moved to 3pm. Please bring the updated slides
+normal	Hey bro, are we still on for football this evening?
+normal	Your order has been delivered. Thank you for shopping with us
+normal	Happy birthday! Wishing you long life and prosperity. Enjoy your day
+normal	I'm outside your gate, come and open
+normal	Please buy bread and eggs on your way home
+normal	Did you see the match last night? That goal was crazy
+normal	Your appointment with the dentist is tomorrow at 10am
+normal	Thanks for yesterday, the food was really good
+normal	Light is back! Go and charge your phone
+normal	Can you send me the notes from today's lecture?
+normal	I will be late for work, traffic is terrible on the bridge
+normal	Your OTP for login is 482910. Do not share this code with anyone
+normal	Church service starts by 8am tomorrow, don't be late
+normal	The landlord said he will come on Saturday to fix the tap
+normal	Good morning dear, have a blessed day
+normal	Please call me when you are free, I want to ask you something
+normal	We are going to the market by 4pm, do you want anything?
+normal	Your transfer of 5,000 naira to Chidi was successful
+normal	Abeg where you dey? We are waiting for you
+normal	The generator needs fuel, please buy on your way
+normal	Jollof rice is ready, come and eat
+normal	Remember to submit the assignment before Friday
+normal	Your ride is arriving in 3 minutes
+normal	Wedding is next Saturday, make sure you come early
+normal	I just landed in Abuja, will call you later
+normal	Your salary has been paid. Thank you for your hard work this month
+normal	The baby is sleeping, please don't ring the bell
+normal	Congratulations on your new job! We are so proud of you
+normal	Can you help me check if the shop is open today?
+normal	I left the key with the security man
+normal	Your account was debited 2,500 naira for data subscription
+normal	See you at the gym by 6am tomorrow
+normal	The plumber is coming at 2pm, please be at home
+normal	Mummy said you should call her when you wake up
+normal	I sent the file to your email, check it
+normal	We won the match 3-1! Celebration tonight
+normal	Please pick the kids from school, I'm still in a meeting
+normal	Your data bundle will expire tomorrow. Renew to stay connected
+normal	How was your exam today? Hope it went well
+normal	I'm cooking egusi soup, come and join us for dinner
+normal	The team lunch is on Friday, let me know if you are coming
+normal	Your bill payment for electricity was successful. Token: 1234 5678 9012
+normal	Sorry I missed your call, I was driving
+normal	Don't forget we have a family meeting on Sunday
+normal	Please send me your address so I can deliver the cake
+normal	Thank you for your payment. Your receipt number is 20391
+normal	The road is blocked, use the other route
+normal	I just finished work, heading home now
+normal	Good night, sleep well
+normal	Your package will be delivered today between 10am and 2pm
+normal	Can we reschedule our call to tomorrow morning?
+normal	Grandma is asking about you, call her
+normal	The fuel queue is long today, go early tomorrow
+normal	Well done on the presentation, the client loved it
+normal	Your train ticket is confirmed for Saturday 9am
+normal	Bring your umbrella, it's going to rain today
+normal	Lunch is on me today, what do you want to eat?
+normal	Your password was changed successfully. If this wasn't you, contact support

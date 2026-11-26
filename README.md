@@ -28,6 +28,10 @@ Each experiment is a short video in the **Dayo Tries** series. Every number show
 
 | # | Experiment | What it shows | Key result |
 |---|-----------|---------------|------------|
+| 13 | [**Why bank apps crash on salary day**](13-salary-day-servers) | System design: queueing theory, load balancing, tail latency | 99% busy = **60× slower**; smart load balancing = **5× faster** on the same servers |
+| 12 | [**Evolving danfo drivers with natural selection**](12-danfo-evolution) | Genetic algorithms, neuroevolution, emergent behaviour | 51 m → **284 m** per trip; they evolved to drive slow **99.8%** of the time |
+| 11 | [**An AI that reads your rock-paper-scissors habits**](11-rock-paper-scissors-ai) | Markov models, sequence prediction, why randomness is unbeatable | Beat human-like players **57% vs 20%**, stuck at **33%** against pure randomness |
+| 10 | [**Building an AI that catches scam SMS**](10-scam-sms-detector) | Naive Bayes from scratch, text classification, false positives vs. false negatives | **89%** accurate… but flagged a real salary alert as **100% scam** |
 | 09 | [**Teaching an AI to cross a Lagos road**](09-lagos-road-ai) | Reinforcement learning (Q-learning), reward design, reward hacking | Hit rate **86% → 3%**… then it learned to **never cross at all** |
 | 02 | [**Teaching a neural network to read handwriting**](02-handwriting-ai) | Neural networks, train/test split, dataset bias | 96.7% accuracy… but it read a Nigerian-style "1" as a **2** |
 | 08 | [**Training a language model on Nigerian Pidgin**](08-pidgin-ai) | N-gram language models, overfitting vs. underfitting | Small data either talks nonsense or **copies 48%** of its training set |
@@ -54,8 +58,9 @@ Timings will differ on your machine, and that's part of the fun.
 ## 🛠️ Skills on display
 
 - **Machine learning:** neural networks, language models, reinforcement learning, overfitting and dataset bias
-- **Simulation and modelling:** agent-based systems, Monte Carlo experiments
+- **Simulation and modelling:** agent-based systems, Monte Carlo experiments, genetic algorithms
 - **Algorithms and complexity:** greedy vs. dynamic programming, sorting, brute-force search
+- **System design:** queueing theory, load balancing, tail latency (p99)
 - **Performance engineering:** Python vs. NumPy vs. C, compiler optimisation
 - **Security fundamentals:** hashing, password entropy, why passphrases win
 - **Communicating technical ideas:** every experiment is explained for a general audience in under a minute
